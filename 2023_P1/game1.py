@@ -28,6 +28,7 @@ def walk(key):
     elif key==K_DOWN:
         py+=1
 def main():
+    
 
 if __name__ == '__main__':
     main()
