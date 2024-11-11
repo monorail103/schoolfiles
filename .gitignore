@@ -166,3 +166,5 @@ cython_debug/
 img/
 image02/
 ignorefiles/
+cascade/
+runs/
